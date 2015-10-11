@@ -15,6 +15,7 @@
 		97CDEF881BCA9EAE008A2F24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97CDEF861BCA9EAE008A2F24 /* LaunchScreen.storyboard */; };
 		97CDEF911BCA9F73008A2F24 /* FirstObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97CDEF901BCA9F73008A2F24 /* FirstObject.m */; settings = {ASSET_TAGS = (); }; };
 		97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97CDEF931BCAA026008A2F24 /* SecondObject.m */; settings = {ASSET_TAGS = (); }; };
+		97F0C77B1BCAA25200747B84 /* ThirdObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C77A1BCAA25200747B84 /* ThirdObject.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		97CDEF901BCA9F73008A2F24 /* FirstObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstObject.m; sourceTree = "<group>"; };
 		97CDEF921BCAA026008A2F24 /* SecondObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondObject.h; sourceTree = "<group>"; };
 		97CDEF931BCAA026008A2F24 /* SecondObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondObject.m; sourceTree = "<group>"; };
+		97F0C7791BCAA25200747B84 /* ThirdObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdObject.h; sourceTree = "<group>"; };
+		97F0C77A1BCAA25200747B84 /* ThirdObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				97CDEF901BCA9F73008A2F24 /* FirstObject.m */,
 				97CDEF921BCAA026008A2F24 /* SecondObject.h */,
 				97CDEF931BCAA026008A2F24 /* SecondObject.m */,
+				97F0C7791BCAA25200747B84 /* ThirdObject.h */,
+				97F0C77A1BCAA25200747B84 /* ThirdObject.m */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -159,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97F0C77B1BCAA25200747B84 /* ThirdObject.m in Sources */,
 				97CDEF801BCA9EAE008A2F24 /* ViewController.m in Sources */,
 				97CDEF7D1BCA9EAE008A2F24 /* AppDelegate.m in Sources */,
 				97CDEF7A1BCA9EAE008A2F24 /* main.m in Sources */,
