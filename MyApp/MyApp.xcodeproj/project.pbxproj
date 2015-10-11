@@ -14,6 +14,7 @@
 		97CDEF851BCA9EAE008A2F24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97CDEF841BCA9EAE008A2F24 /* Assets.xcassets */; };
 		97CDEF881BCA9EAE008A2F24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97CDEF861BCA9EAE008A2F24 /* LaunchScreen.storyboard */; };
 		97CDEF911BCA9F73008A2F24 /* FirstObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97CDEF901BCA9F73008A2F24 /* FirstObject.m */; settings = {ASSET_TAGS = (); }; };
+		97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97CDEF931BCAA026008A2F24 /* SecondObject.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		97CDEF891BCA9EAE008A2F24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97CDEF8F1BCA9F73008A2F24 /* FirstObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstObject.h; sourceTree = "<group>"; };
 		97CDEF901BCA9F73008A2F24 /* FirstObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstObject.m; sourceTree = "<group>"; };
+		97CDEF921BCAA026008A2F24 /* SecondObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondObject.h; sourceTree = "<group>"; };
+		97CDEF931BCAA026008A2F24 /* SecondObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				97CDEF781BCA9EAE008A2F24 /* Supporting Files */,
 				97CDEF8F1BCA9F73008A2F24 /* FirstObject.h */,
 				97CDEF901BCA9F73008A2F24 /* FirstObject.m */,
+				97CDEF921BCAA026008A2F24 /* SecondObject.h */,
+				97CDEF931BCAA026008A2F24 /* SecondObject.m */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -157,6 +162,7 @@
 				97CDEF801BCA9EAE008A2F24 /* ViewController.m in Sources */,
 				97CDEF7D1BCA9EAE008A2F24 /* AppDelegate.m in Sources */,
 				97CDEF7A1BCA9EAE008A2F24 /* main.m in Sources */,
+				97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */,
 				97CDEF911BCA9F73008A2F24 /* FirstObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
