@@ -19,6 +19,7 @@
 		97F0C77E1BCAA53800747B84 /* Fourobject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C77D1BCAA53800747B84 /* Fourobject.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C7811BCAA57F00747B84 /* Five.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7801BCAA57F00747B84 /* Five.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C7871BCAA74600747B84 /* Six.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7861BCAA74600747B84 /* Six.m */; settings = {ASSET_TAGS = (); }; };
+		97F0C78A1BCAA89700747B84 /* SevenObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7891BCAA89700747B84 /* SevenObject.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		97F0C7801BCAA57F00747B84 /* Five.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Five.m; sourceTree = "<group>"; };
 		97F0C7851BCAA74600747B84 /* Six.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Six.h; sourceTree = "<group>"; };
 		97F0C7861BCAA74600747B84 /* Six.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Six.m; sourceTree = "<group>"; };
+		97F0C7881BCAA89700747B84 /* SevenObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SevenObject.h; sourceTree = "<group>"; };
+		97F0C7891BCAA89700747B84 /* SevenObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SevenObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 				97F0C77D1BCAA53800747B84 /* Fourobject.m */,
 				97F0C77F1BCAA57F00747B84 /* Five.h */,
 				97F0C7801BCAA57F00747B84 /* Five.m */,
+				97F0C7881BCAA89700747B84 /* SevenObject.h */,
+				97F0C7891BCAA89700747B84 /* SevenObject.m */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -179,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97F0C78A1BCAA89700747B84 /* SevenObject.m in Sources */,
 				97F0C77B1BCAA25200747B84 /* ThirdObject.m in Sources */,
 				97CDEF801BCA9EAE008A2F24 /* ViewController.m in Sources */,
 				97CDEF7D1BCA9EAE008A2F24 /* AppDelegate.m in Sources */,
