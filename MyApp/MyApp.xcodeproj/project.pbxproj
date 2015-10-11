@@ -19,6 +19,7 @@
 		97F0C77E1BCAA53800747B84 /* Fourobject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C77D1BCAA53800747B84 /* Fourobject.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C7811BCAA57F00747B84 /* Five.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7801BCAA57F00747B84 /* Five.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C7871BCAA74600747B84 /* Six.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7861BCAA74600747B84 /* Six.m */; settings = {ASSET_TAGS = (); }; };
+		97F0C78D1BCAA8A400747B84 /* Eight.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C78C1BCAA8A400747B84 /* Eight.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		97F0C7801BCAA57F00747B84 /* Five.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Five.m; sourceTree = "<group>"; };
 		97F0C7851BCAA74600747B84 /* Six.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Six.h; sourceTree = "<group>"; };
 		97F0C7861BCAA74600747B84 /* Six.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Six.m; sourceTree = "<group>"; };
+		97F0C78B1BCAA8A400747B84 /* Eight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Eight.h; sourceTree = "<group>"; };
+		97F0C78C1BCAA8A400747B84 /* Eight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Eight.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 				97F0C77D1BCAA53800747B84 /* Fourobject.m */,
 				97F0C77F1BCAA57F00747B84 /* Five.h */,
 				97F0C7801BCAA57F00747B84 /* Five.m */,
+				97F0C78B1BCAA8A400747B84 /* Eight.h */,
+				97F0C78C1BCAA8A400747B84 /* Eight.m */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -188,6 +193,7 @@
 				97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */,
 				97F0C77E1BCAA53800747B84 /* Fourobject.m in Sources */,
 				97CDEF911BCA9F73008A2F24 /* FirstObject.m in Sources */,
+				97F0C78D1BCAA8A400747B84 /* Eight.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
