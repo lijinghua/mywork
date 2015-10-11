@@ -17,6 +17,7 @@
 		97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97CDEF931BCAA026008A2F24 /* SecondObject.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C77B1BCAA25200747B84 /* ThirdObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C77A1BCAA25200747B84 /* ThirdObject.m */; settings = {ASSET_TAGS = (); }; };
 		97F0C77E1BCAA53800747B84 /* Fourobject.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C77D1BCAA53800747B84 /* Fourobject.m */; settings = {ASSET_TAGS = (); }; };
+		97F0C7811BCAA57F00747B84 /* Five.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0C7801BCAA57F00747B84 /* Five.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		97F0C77A1BCAA25200747B84 /* ThirdObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdObject.m; sourceTree = "<group>"; };
 		97F0C77C1BCAA53800747B84 /* Fourobject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fourobject.h; sourceTree = "<group>"; };
 		97F0C77D1BCAA53800747B84 /* Fourobject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fourobject.m; sourceTree = "<group>"; };
+		97F0C77F1BCAA57F00747B84 /* Five.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Five.h; sourceTree = "<group>"; };
+		97F0C7801BCAA57F00747B84 /* Five.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Five.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				97F0C77A1BCAA25200747B84 /* ThirdObject.m */,
 				97F0C77C1BCAA53800747B84 /* Fourobject.h */,
 				97F0C77D1BCAA53800747B84 /* Fourobject.m */,
+				97F0C77F1BCAA57F00747B84 /* Five.h */,
+				97F0C7801BCAA57F00747B84 /* Five.m */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -172,6 +177,7 @@
 				97F0C77B1BCAA25200747B84 /* ThirdObject.m in Sources */,
 				97CDEF801BCA9EAE008A2F24 /* ViewController.m in Sources */,
 				97CDEF7D1BCA9EAE008A2F24 /* AppDelegate.m in Sources */,
+				97F0C7811BCAA57F00747B84 /* Five.m in Sources */,
 				97CDEF7A1BCA9EAE008A2F24 /* main.m in Sources */,
 				97CDEF941BCAA026008A2F24 /* SecondObject.m in Sources */,
 				97F0C77E1BCAA53800747B84 /* Fourobject.m in Sources */,
